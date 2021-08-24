@@ -3,4 +3,5 @@
 [Home](index.md)
 [About](about.md)
 
-[gimmick:theme (inverse: true)](flatly)
+<!-- [gimmick:theme (inverse: true)](flatly) -->
+[gimmick:theme](united)
